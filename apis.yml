@@ -1,0 +1,32 @@
+aid: rebrandly
+name: Rebrandly
+description: "Custom URL shortener for sharing branded links"
+url: https://developers.rebrandly.com/v1/docs
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "URL Shorteners"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - URL Shorteners
+  - Public APIs
+apis:
+  - name: Rebrandly
+    description: "Custom URL shortener for sharing branded links"
+    humanURL: https://developers.rebrandly.com/v1/docs
+    baseURL: https://developers.rebrandly.com/v1/docs
+    tags:
+      - URL Shorteners
+    properties:
+      - type: Documentation
+        url: https://developers.rebrandly.com/v1/docs
+common:
+  - type: Website
+    url: https://developers.rebrandly.com/v1/docs
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
