@@ -23,6 +23,12 @@ apis:
       - type: Documentation
         url: https://developers.rebrandly.com/v1/docs
 common:
+  - type: TrustCenter
+    url: security/rebrandly-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/rebrandly-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/rebrandly-domain-security.yml
   - type: Website
     url: https://developers.rebrandly.com/v1/docs
   - type: PublicAPIsListing
