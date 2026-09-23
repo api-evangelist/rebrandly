@@ -1,0 +1,29 @@
+# Front Door AI Index — rebrandly — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: rebrandly
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: developers.rebrandly.com
+  final_host: developers.rebrandly.com
+  ownership: own
+  owner: rebrandly
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 4
+  host_score: 4
+  density: 15.56
+  words: 257
+  tiers:
+    agentic: 3
+    core: 1
+    model: 0
+  ambiguous: 1
+  top_terms:
+    AI agent: 1
+    AI: 1
+    MCP: 1
+    agent: 1
+    llms.txt: 1
