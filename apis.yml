@@ -39,7 +39,6 @@ apis:
   - name: Rebrandly
     description: "Custom URL shortener for sharing branded links"
     humanURL: https://developers.rebrandly.com/v1/docs
-    baseURL: https://developers.rebrandly.com/v1/docs
     tags:
       - URL Shorteners
     properties:
