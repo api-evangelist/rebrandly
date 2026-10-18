@@ -54,3 +54,29 @@
     builder: Pipedream repo (component)
   status: not-a-workflow
   arazzo: null
+- slug: rebrandly-google-workspace-own
+  label: Google Workspace (own)
+  partner: google-workspace
+  partner_name: Google Workspace (own)
+  category: Google Workspace app
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://workspace.google.com/marketplace/app/rebrandly/865494018682
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: rebrandly-slack-own
+  label: Slack (own)
+  partner: slack
+  partner_name: Slack (own)
+  category: Slack app
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://slack.com/marketplace/AF9BGSB1P-rebrandly-url-shortener
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
